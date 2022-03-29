@@ -17,8 +17,9 @@ Perform clustering stating insights drawn from your analysis and visualizations.
 Upon implementation, provide comparisons between the approaches learned this week i.e. K-Means clustering vs Hierarchical clustering highlighting the strengths and limitations of each approach in the context of your analysis. 
 The findings should help inform the team in formulating the marketing and sales strategies of the brand.
 
-#### RPubs Links: http://rpubs.com/BradAgwa/882473
-                  http://rpubs.com/BradAgwa/882474
+#### RPubs Links: 
+http://rpubs.com/BradAgwa/882473
+http://rpubs.com/BradAgwa/882474
 ## Requirements
 The data was analysed in R studio but can be viewed as a html
 
