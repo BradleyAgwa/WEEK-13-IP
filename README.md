@@ -18,8 +18,9 @@ Upon implementation, provide comparisons between the approaches learned this wee
 The findings should help inform the team in formulating the marketing and sales strategies of the brand.
 
 #### RPubs Links: 
-http://rpubs.com/BradAgwa/882473
-http://rpubs.com/BradAgwa/882474
+Advert: http://rpubs.com/BradAgwa/882473
+
+Customer Behavior: http://rpubs.com/BradAgwa/882474
 ## Requirements
 The data was analysed in R studio but can be viewed as a html
 
